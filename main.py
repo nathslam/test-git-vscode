@@ -21,3 +21,4 @@ else:
 print(num, "is a prime number")
 
 #nathanael
+#slama
